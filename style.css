@@ -1,0 +1,22 @@
+body{
+    font-family: Georgia
+}
+.menu-item {
+    width: 250px;
+    height: 50px;
+    border: 1px solid black;
+    list-style-type: none;
+    padding: 3px;
+}
+
+.container {
+  display: flex;
+}
+
+.hover {
+    background: orange
+}
+
+.selected{
+    background: lightblue
+}
